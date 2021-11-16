@@ -1,2 +1,2 @@
-CSS-Grid
-# Praticando grid. #
+# Treinamento sobre GRID #
+
